@@ -31,9 +31,8 @@
 
 ## 개발 언어 및 환경 
 
-  > JAVA / Servlet/jsp /  Ajax /  HTML5/CSS3 /  Javascript / 
-  > 
-  > Spring /  mybatis /  BootStrap5 /  Git
+  > <img src="https://img.shields.io/badge/JAVA-F47D31?style=for-the-badge"/> <img src="https://img.shields.io/badge/Servlet/JSP-FF4F8B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Ajax-40AEF0?style=for-the-badge"/>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/> <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>  <img src="https://img.shields.io/badge/BootStrap-4053D6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  
 
 
 
