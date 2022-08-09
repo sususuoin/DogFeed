@@ -18,7 +18,7 @@
 
 <br>
 
-## 담당 기능
+## 주요 업무
 
 
 <img src="https://user-images.githubusercontent.com/64256411/183471453-c1e4c61c-cb1d-41e7-8c9a-3c38db0a9614.png" width="160" height="270">   <img src="https://user-images.githubusercontent.com/64256411/183471888-3b2613f2-5e1b-4814-a084-8945ed935363.png" width="160" height="270">  
